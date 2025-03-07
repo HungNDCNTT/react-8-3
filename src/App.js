@@ -186,7 +186,7 @@ function App() {
         {/* <PuppyFrame /> */}
         <model-viewer
           ref={modelViewerRef}
-          src="/toon_cute_dog.glb"
+          src="/qoobee_kissing.glb"
           alt="A cute cartoon dog"
           auto-rotate
           camera-controls
